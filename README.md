@@ -1,4 +1,4 @@
-This is a collaboration printf projrct between peter and Ruth Arimuk
+This is a collaboration printf projrct between peter Iroga and Ruth Arimuk
 This is a detailed explanation of this project and what is expected of the
 outcome as per alx.
 _printf
@@ -98,5 +98,5 @@ writee_handlers.c
 
 contains write functions.
 	 AUTHORS:
-	 George Arasa
-	 George Mwaniki
+	 Peter Iroga
+	 ruth Arimuk
