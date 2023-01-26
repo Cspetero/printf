@@ -99,4 +99,4 @@ and prints it to the standard output, much like the C standard library function 
      .SH BUGS
      _printf does not take care of length and precision modifiers yet. For example, _printf(\(dq%hx\(dq) will not produce the same output as the call to the standard library printf.
    .SH AUTHORS
-   Peter Iroga and , Cohort 11.
+   Peter Iroga and Ruth Arimuk Cohort 11.
